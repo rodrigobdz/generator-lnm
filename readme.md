@@ -1,32 +1,30 @@
-# generator-nm [![Build Status](https://travis-ci.org/sindresorhus/generator-nm.svg?branch=master)](https://travis-ci.org/sindresorhus/generator-nm)
+# generator-lnm [![Build Status](https://travis-ci.org/rodrigobdz/generator-lnm.svg?branch=master)](https://travis-ci.org/rodrigobdz/generator-lnm)
 
-> Scaffold out a [node module](https://github.com/sindresorhus/node-module-boilerplate)
+> Scaffold out a node module
 
 Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
-This is what I use for [my own modules](https://www.npmjs.com/~sindresorhus).
+This is what I use for [my own modules](https://www.npmjs.com/~rodrigobdz).
 
-![](screenshot.png)
-
+![Usage screenshot](screenshot.png)
 
 ## Install
 
+```sh
+$ npm install --global yo generator-lnm
 ```
-$ npm install --global yo generator-nm
-```
-
 
 ## Usage
 
 With [yo](https://github.com/yeoman/yo):
 
-```
+```sh
 $ yo nm
 ```
 
 There are multiple command-line options available:
 
-```
+```sh
 $ yo nm --help
 
   Usage:
@@ -44,12 +42,10 @@ $ yo nm --help
 
 The `--org` option takes a string value (i.e. `--org=avajs`). All others are boolean flags and can be negated with the `no` prefix (i.e. `--no-codecov`). You will be prompted for any options not passed on the command-line.
 
-
 ## Tip
 
 Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CLI.
 
-
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+[MIT](license) © [rodrigobdz](https://rodrigobdz.github.io)

@@ -1,14 +1,12 @@
-# <%= repoName %> [![Build Status](https://travis-ci.com/<%= githubUsername %>/<%= repoName %>.svg?branch=master)](https://travis-ci.com/<%= githubUsername %>/<%= repoName %>)<% if (codecov) { %> [![codecov](https://codecov.io/gh/<%= githubUsername %>/<%= repoName %>/badge.svg?branch=master)](https://codecov.io/gh/<%= githubUsername %>/<%= repoName %>?branch=master)<% } %>
+# <%= repoName %> [![Build Status](https://travis-ci.org/<%= githubUsername %>/<%= repoName %>.svg?branch=master)](https://travis-ci.org/<%= githubUsername %>/<%= repoName %>)<% if (codecov) { %> [![codecov](https://codecov.io/gh/<%= githubUsername %>/<%= repoName %>/badge.svg?branch=master)](https://codecov.io/gh/<%= githubUsername %>/<%= repoName %>?branch=master)<% } %>
 
 > <%= moduleDescription %>
 
-
 ## Install
 
-```
+```sh
 $ npm install <%= moduleName %>
 ```
-
 
 ## Usage
 
@@ -18,7 +16,6 @@ const <%= camelModuleName %> = require('<%= moduleName %>');
 <%= camelModuleName %>('unicorns');
 //=> 'unicorns & rainbows'
 ```
-
 
 ## API
 
@@ -41,14 +38,13 @@ Default: `false`
 
 Lorem ipsum.<% if (cli) { %>
 
-
 ## CLI
 
-```
+```sh
 $ npm install --global <%= moduleName %>
 ```
 
-```
+```sh
 $ <%= repoName %> --help
 
   Usage
@@ -64,7 +60,6 @@ $ <%= repoName %> --help
     ponies & rainbows
 ```<% } %>
 
-
 ## License
 
-MIT © [<%= name %>](<%= website %>)
+[MIT](license) © [<%= name %>](<%= website %>)

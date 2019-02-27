@@ -1,13 +1,13 @@
 {
-	"name": "generator-nm",
-	"version": "4.1.0",
-	"description": "Scaffold out a node module",
+	"name": "generator-lnm",
+	"version": "1.0.0",
+	"description": "Scaffold out a linted node module",
 	"license": "MIT",
-	"repository": "sindresorhus/generator-nm",
+	"repository": "rodrigobdz/generator-lnm",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "Rodrigo Bermudez Schettino",
+		"email": "rodrigobermudezschettino@gmail.com",
+		"url": "rodrigobdz.github.io"
 	},
 	"engines": {
 		"node": ">=6"
@@ -29,7 +29,8 @@
 		"node_module",
 		"node-module",
 		"init",
-		"sindre"
+		"linted",
+		"rodrigo"
 	],
 	"dependencies": {
 		"humanize-url": "^1.0.1",

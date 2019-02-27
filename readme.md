@@ -19,16 +19,16 @@ $ npm install --global yo generator-lnm
 With [yo](https://github.com/yeoman/yo):
 
 ```sh
-$ yo nm
+$ yo lnm
 ```
 
 There are multiple command-line options available:
 
 ```sh
-$ yo nm --help
+$ yo lnm --help
 
   Usage:
-    yo nm [options]
+    yo lnm [options]
 
   Options:
     --help          # Print the generator's options and usage

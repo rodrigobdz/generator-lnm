@@ -1,4 +1,4 @@
-# generator-lnm [![Build Status](https://travis-ci.org/rodrigobdz/generator-lnm.svg?branch=master)](https://travis-ci.org/rodrigobdz/generator-lnm)
+# generator-lnm [![Build Status](https://travis-ci.com/rodrigobdz/generator-lnm.svg?branch=master)](https://travis-ci.com/rodrigobdz/generator-lnm)
 
 > Scaffold out a node module
 

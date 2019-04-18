@@ -2,11 +2,13 @@
 
 > Scaffold out a node module
 
+If you are wondering how this is different to generator-nm, read the [credits](#credits) section.
+
 Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
 This is what I use for [my own modules](https://www.npmjs.com/~rodrigobdz).
 
-![Usage screenshot](screenshot.png)
+<img src="screenshot.png" width="1100">
 
 ## Install
 
@@ -45,6 +47,19 @@ The `--org` option takes a string value (i.e. `--org=avajs`). All others are boo
 ## Tip
 
 Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CLI.
+
+## Related projects
+
+[sindresorhus/generator-nm](https://github.com/sindresorhus/generator-nm) - generator-lnm is forked from generator-nm. _lnm_ stands for _**l**inted **n**ode **m**odule_. Reasons for forking:
+
+* Linted markdown files
+* Link to license file in license section
+
+See [changelog](changelog.md#100---2019-03-01), [PR #78](https://github.com/sindresorhus/generator-nm/pull/78) and [PR #79](https://github.com/sindresorhus/generator-nm/pull/79) for reference.
+
+## Credits
+
+This readme is based on [rodrigobdz/minimal-readme](https://github.com/rodrigobdz/minimal-readme).
 
 ## License
 

@@ -53,6 +53,7 @@ test.serial('CLI option', async () => {
 	assert.fileContent('package.json', /"bin":/);
 	assert.fileContent('package.json', /"bin": "cli.js"/);
 	assert.fileContent('package.json', /"meow"/);
+	assert.fileContent('package.json', /"update-notifier"/);
 });
 
 test.serial('nyc option', async () => {

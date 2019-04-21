@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Include [update-notifier](https://github.com/yeoman/update-notifier) in CLI template to inform users about package updates.
+
+### Changes
+
+- Updated dependencies
+
 ## [1.0.0] - 2019-03-01
 
 ### Added

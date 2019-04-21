@@ -1,6 +1,6 @@
 # generator-lnm [![Build Status](https://travis-ci.com/rodrigobdz/generator-lnm.svg?branch=master)](https://travis-ci.com/rodrigobdz/generator-lnm)
 
-> Scaffold out a node module
+> Scaffold out a node module with linted files and [update notifier](https://github.com/yeoman/update-notifier)
 
 If you are wondering how this is different to generator-nm, read the [credits](#credits) section.
 
@@ -44,7 +44,7 @@ $ yo lnm --help
 
 The `--org` option takes a string value (i.e. `--org=avajs`). All others are boolean flags and can be negated with the `no` prefix (i.e. `--no-codecov`). You will be prompted for any options not passed on the command-line.
 
-## Tip
+### Tip
 
 Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CLI.
 

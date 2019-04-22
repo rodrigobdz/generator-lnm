@@ -16,6 +16,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changes
+
+- Improve readability of license with linebreaks.
+
 ## [1.1.0] - 2019-04-21
 
 ### Added
@@ -24,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changes
 
-- Updated dependencies
+- Update dependencies.
 
 ## [1.0.0] - 2019-03-01
 

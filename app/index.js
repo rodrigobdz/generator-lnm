@@ -113,7 +113,8 @@ module.exports = class extends Generator {
 			mv('gitignore', '.gitignore');
 			mv('travis.yml', '.travis.yml');
 			mv('npmrc', '.npmrc');
-			mv('github/**', '.github');
+			mv('bug_report.md', '.github/ISSUE_TEMPLATE/bug_report.md');
+			mv('feature_request.md', '.github/ISSUE_TEMPLATE/feature_request.md');
 			mv('_package.json', 'package.json');
 		});
 	}

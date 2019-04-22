@@ -16,6 +16,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.1] - 2019-04-22
+
+### Changed
+
+- Update npm description and screenshot.
+
 ## [1.2.0] - 2019-04-22
 
 ### Added
@@ -48,7 +54,8 @@ This is visible in the repo's community profile `https://github.com/<username>/<
 
 - Rename npm package from generator-nm to generator-lnm.
 
-[unreleased]: https://github.com/rodrigobdz/generator-lnm/compare/v1.2.0...HEAD
+[unreleased]: https://github.com/rodrigobdz/generator-lnm/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/rodrigobdz/generator-lnm/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/rodrigobdz/generator-lnm/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/rodrigobdz/generator-lnm/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/rodrigobdz/generator-lnm/compare/8711e3ae187acf7f73744f5763894188251515bf...v1.0.0

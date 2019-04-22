@@ -1,10 +1,13 @@
 # generator-lnm [![Build Status](https://travis-ci.com/rodrigobdz/generator-lnm.svg?branch=master)](https://travis-ci.com/rodrigobdz/generator-lnm)
 
-> Scaffold out a node module with linted files and [update notifier](https://github.com/yeoman/update-notifier)
+> Awesome Node module generator
 
-If you are wondering how this is different to generator-nm, read the [credits](#credits) section.
+### Features
 
-Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
+Improvements **generator-lnm** over generator-nm:
+
+* Generated modules comply with [recommended community standards](https://opensource.guide).
+* Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface) which includes [update notifier](https://github.com/yeoman/update-notifier).
 
 This is what I use for [my own modules](https://www.npmjs.com/~rodrigobdz).
 
@@ -53,6 +56,7 @@ Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CL
 [sindresorhus/generator-nm](https://github.com/sindresorhus/generator-nm) - generator-lnm is forked from generator-nm. _lnm_ stands for _**l**inted **n**ode **m**odule_. Reasons for forking:
 
 * Linted markdown files
+* License includes line breaks to improve readability.
 * Link to license file in license section
 
 See [changelog](changelog.md#100---2019-03-01), [PR #78](https://github.com/sindresorhus/generator-nm/pull/78) and [PR #79](https://github.com/sindresorhus/generator-nm/pull/79) for reference.

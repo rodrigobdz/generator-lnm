@@ -25,12 +25,16 @@ test.serial('generates expected files', async () => {
 	assert.file([
 		'.editorconfig',
 		'.git',
+		'.github/ISSUE_TEMPLATE/bug_report.md',
+		'.github/ISSUE_TEMPLATE/feature_request.md',
 		'.gitattributes',
 		'.gitignore',
 		'.travis.yml',
 		'index.js',
 		'license',
 		'package.json',
+		'code_of_conduct.md',
+		'contributing.md',
 		'readme.md',
 		'test.js',
 		'.npmrc'

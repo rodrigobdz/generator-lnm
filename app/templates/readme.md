@@ -60,7 +60,6 @@ $ <%= repoName %> --help
     ponies & rainbows
 ```<% } %>
 
-
 ## Credits
 
 * [generator-lnm](https://github.com/rodrigobdz/generator-lnm) - Awesome node module generator

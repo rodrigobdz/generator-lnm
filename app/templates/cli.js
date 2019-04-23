@@ -18,7 +18,6 @@ const cli = meow(`
 	  ponies & rainbows
 `);
 
-
 updateNotifier({pkg: cli.pkg}).notify();
 
 console.log(<%= camelModuleName %>(cli.input[0] || 'unicorns'));

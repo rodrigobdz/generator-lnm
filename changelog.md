@@ -16,6 +16,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## Added
+
+- Include PR template to comply with [recommended community standards](https://opensource.guide).
+- Add changelog based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) to generator.
+
 ### Fixed
 
 - Lint readme template.
@@ -37,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Include contribution guidelines, code of conduct, issue and PR templates to comply with [recommended community standards](https://opensource.guide).
+- Include contribution guidelines, code of conduct, issue templates to comply with [recommended community standards](https://opensource.guide).
 This is visible in the repo's community profile `https://github.com/<username>/<repo>/community`.
 
 ### Changed

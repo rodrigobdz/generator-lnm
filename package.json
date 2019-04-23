@@ -1,6 +1,6 @@
 {
 	"name": "generator-lnm",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "Scaffold out a linted node module",
 	"license": "MIT",
 	"repository": "rodrigobdz/generator-lnm",

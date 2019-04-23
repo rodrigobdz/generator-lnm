@@ -53,17 +53,15 @@ Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CL
 
 ## Related projects
 
-[sindresorhus/generator-nm](https://github.com/sindresorhus/generator-nm) - generator-lnm is forked from generator-nm. _lnm_ stands for _**l**inted **n**ode **m**odule_. Reasons for forking:
+* [generator-nm](https://github.com/sindresorhus/generator-nm) - generator-lnm is forked from generator-nm. _lnm_ stands for _**l**inted **n**ode **m**odule_. Reasons for forking:
 
-* Linted markdown files
-* License includes line breaks to improve readability.
-* Link to license file in license section
+  * Linted markdown files
+  * License includes line breaks to improve readability.
+  * Link to license file in license section
 
-See [changelog](changelog.md#100---2019-03-01), [PR #78](https://github.com/sindresorhus/generator-nm/pull/78) and [PR #79](https://github.com/sindresorhus/generator-nm/pull/79) for reference.
+  See [changelog](changelog.md#100---2019-03-01), [PR #78](https://github.com/sindresorhus/generator-nm/pull/78) and [PR #79](https://github.com/sindresorhus/generator-nm/pull/79) for reference.
 
-## Credits
-
-This readme is based on [rodrigobdz/minimal-readme](https://github.com/rodrigobdz/minimal-readme).
+* [minimal-readme](https://github.com/rodrigobdz/minimal-readme) - Clean readme template.
 
 ## License
 

@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Update dependencies.
 - Lint readme template.
+- Fix broken link in contributing template.
 
 ## [1.2.2] - 2019-04-23
 

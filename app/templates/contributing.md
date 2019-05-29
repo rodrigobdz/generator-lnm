@@ -72,4 +72,4 @@ Working on your first Pull Request? You can learn how from this free video serie
 
 This document is based on Facebook's [React Native](https://github.com/facebook/react-native/blob/e9e20e6c8335f27af8469cd23cb7ba079b0422f9/CONTRIBUTING.md), Microsoft's [VS Code](https://github.com/Microsoft/vscode/blob/8261bddefa224dc4a9bd3ca1b40cac578f1b6f09/CONTRIBUTING.md) and Shakacode's [React on Rails](https://github.com/shakacode/react_on_rails/blob/94366056a63b0ef340dccd810734a8791806257b/CONTRIBUTING.md) Contribution Guidelines.
 
-[CODE_OF_CONDUCT]: https://github.com/<%= githubUsername %>/<%= repoName %>/CODE_OF_CONDUCT.md
+[CODE_OF_CONDUCT]: https://github.com/<%= githubUsername %>/<%= repoName %>/code_of_conduct.md

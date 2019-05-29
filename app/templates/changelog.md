@@ -16,5 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-[unreleased]: https://github.com/<%= githubUsername %>/<%= repoName %>/compare
+### Added
+
+- <%= moduleDescription %>
+
+[unreleased]: https://github.com/<%= githubUsername %>/<%= repoName %>/compare/...HEAD
 <!-- Example: https://github.com/<%= githubUsername %>/<%= repoName %>/compare/v1.0.0...HEAD -->
